@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   },
   description:
     "免费在线图片处理工具。支持图片压缩、格式转换、裁剪、添加水印。手机电脑都能用，无需下载安装，处理完即删，保护隐私。",
+  icons: {
+    icon: "/favicon-32.png",
+  },
   keywords: [
     "图片压缩",
     "图片转换",
@@ -23,6 +26,9 @@ export const metadata: Metadata = {
     "图片加水印",
     "JPG转PNG",
     "图片处理",
+    "HEIC转换",
+    "批量处理",
+    "长截图拼接",
   ],
   manifest: "/manifest.json",
   appleWebApp: {
