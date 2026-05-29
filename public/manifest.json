@@ -1,7 +1,7 @@
 {
   "name": "图片工具箱",
   "short_name": "图片工具",
-  "description": "免费在线图片压缩、格式转换、裁剪工具",
+  "description": "免费在线图片处理工具箱 — 压缩、转换、裁剪、水印、旋转、拼接、滤镜",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f5f5f7",
